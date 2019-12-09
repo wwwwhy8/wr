@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding: 0;
+
+}
+ol,ul{
+	list-style-type: none;
+}
+a{
+	color: #888;
+	text-decoration: none;
+}
+.left{
+	float:left;
+}
+.right{
+	float: right;
+}
+
+/*设置页面头部的样式*/
+#header{
+	height: 30px;
+	background-color: #FFFFFF;
+}
+#header ul li{
+	float: left;
+}
+#header ul li{
+	color: 	#FFC0CB;
+}
+/*设置网页部分的样式*/
+
+	#show li img{
+	width: 250px;
+
+}
+
